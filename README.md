@@ -7,24 +7,24 @@ WAMS [Wellingborough Arduino Meteorlogical Station] is my first major Arduino pr
 
 ##### Active Experiements
 
->   Measurement     Component
->   ----------------------------------
->   Temperature #1  15K Thermistor
->   Temperature #2  BMP180
->   Air Pressure    BMP180
->   Sunlight        15K Photoresistor
+    Measurement     Component
+    ----------------------------------
+    Temperature #1  15K Thermistor
+    Temperature #2  BMP180
+    Air Pressure    BMP180
+    Sunlight        15K Photoresistor
 
 ##### Waiting for Installation
 
->   Measurement     Component
->   ----------------------------------
->   Humidity        TBA
+    Measurement     Component
+    ----------------------------------
+    Humidity        TBA
 
 ##### Proposed
 
->   Measurement     Component
->   ----------------------------------
->   UV Level        TBA
->   Rainfall        TBA
->   Wind Speed      TBA
+    Measurement     Component
+    ----------------------------------
+    UV Level        TBA
+    Rainfall        TBA
+    Wind Speed      TBA
 
